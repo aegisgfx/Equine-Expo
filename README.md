@@ -1,2 +1,0 @@
-# Equine-Expo
-equine
